@@ -12,48 +12,6 @@
     <img src="https://img.shields.io/bower/v/trumbowyg.svg?color=blue&style=for-the-badge" alt="Version on bower" />
 </p>
 
-
-<h2 align="center">Supporting Trumbowyg</h2>
-
-Trumbowyg is an MIT-licensed open source project and completely free to use.
-
-However, the amount of effort needed to maintain and develop new features for
-the project is not sustainable without proper financial backing.
-You can support it's ongoing development by being a backer or a sponsor:
-
-- [Become a backer or sponsor on Patreon](https://www.patreon.com/alexandredemode)
-- [One-time donation via PayPal](https://www.paypal.me/demodealexandre/20eur)
-
-<h3 align="center">Sponsors</h3>
-
-<h4 align="center">Gold</h4>
-
-<p align="center">
-    <a href="https://avot.nl/?ref=trumbowyg">
-        <img src="https://cdn.rawgit.com/Alex-D/Trumbowyg/develop/sponsors/avot.svg" alt="avot®" width="200px"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://www.patreon.com/bePatron?c=1176005&rid=1940456">
-        Become a Sponsor
-    </a>
-</p>
-
-<h4 align="center">Silver</h4>
-
-<p align="center">
-    <a href="https://socialoptic.com/?ref=trumbowyg">
-        <img src="https://rawcdn.githack.com/Alex-D/Trumbowyg/develop/sponsors/socialoptic.png" alt="SocialOptic" width="150px"/>
-    </a>
-</p>
-
-<p align="center">
-    <a href="https://www.patreon.com/bePatron?c=1176005&rid=1940456">
-        Become a Sponsor
-    </a>
-</p>
-
 ------------------------------------
 
 ## Introduction
